@@ -168,13 +168,13 @@ body{margin-top:20px;}
 }
 
 .blog-single {
-  padding-top: 30px;
+  padding-top:20px;
   padding-bottom: 30px;
 }
 
 .article {
-  box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
-  border-radius: 5px;
+  box-shadow: 0 0 30px rgba(135, 66, 214, 0.125);
+  border-radius: 15px;
   overflow: hidden;
   background: #ffffff;
   padding: 15px;
@@ -416,7 +416,7 @@ img {
 }
 
 .container-fluid {
-  padding: 30px 30px;
+  
 }
 
 .db-social .head-profile {
@@ -571,3 +571,9 @@ img {
   color: #3b278b;
   font-size: 15px;
 }
+.w3-quarter ul{
+  list-style-image: url("../../assets/check-mark.png");
+  image-resolution: 9px 9px;
+  size: 9px 9px;
+}
+  
